@@ -3,11 +3,17 @@ Evidencia de Trabajo en Clase
 
 1. Juan Pablo Vargas Puerto
 2.
+<<<<<<< HEAD
 3.
 4.Erick Largo
 5.
+=======
+3. Karen Luciana Niño Sosa
+4.
+5.Yisel Matabajoy
+>>>>>>> e89fc8f3b2ebb5192a32fe179c351ae7679eea31
 6.
-7.
+7. Juan Miguel Chaparro Mondragon 
 8.
 9.
 10.
